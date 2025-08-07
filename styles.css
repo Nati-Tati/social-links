@@ -25,7 +25,7 @@ body {
     padding: 2rem;
     border-radius: 12px;
     background-color: hsl(0, 0%, 12%);
-    transform: scale(0.80);
+    transform: scale(0.95);
     transform-origin: center;
 }
 .image-container {
