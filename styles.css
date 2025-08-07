@@ -26,7 +26,6 @@ body {
     border-radius: 12px;
     background-color: hsl(0, 0%, 12%);
     transform: scale(0.80);
-        /* уменьшаем до 85% */
     transform-origin: center;
 }
 .image-container {
